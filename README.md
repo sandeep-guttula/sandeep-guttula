@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandeep-guttula
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on 
+<!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 📫 How to reach me sandeepguttula2002@gmail.com -->
 
 <!---
