@@ -1,9 +1,9 @@
-<div align=center>
- <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
-<div align=center>
-       <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sandeep+%F0%9F%91%8B;Computer+Science+Student;UI/UX Designer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /> 
-</div>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandeep Guttula</h1>
+<h3 align="center">Front End Developer | UI / UX designer | ReactNative Developer</h3>
   
 # 💫 About Me:
 I am a passionate front-end web developer with a strong interest in user experience and user interface design. I have over 3 years of experience building responsive and engaging web applications using HTML, CSS, JavaScript, and React. I am also proficient in using design tools such as Sketch and Figma.<br><br>In addition to my work as a front-end web developer, I am also a full-time student at the Indian Institute of Technology Hyderabad, where I am pursuing a degree in computer science. I am excited to learn new technologies and contribute to the field of web development.<br><br>I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working collaboratively to solve problems. I am confident that I have the skills and experience to be a valuable asset to your team.
