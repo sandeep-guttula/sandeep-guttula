@@ -18,8 +18,9 @@ I am a passionate front-end web developer with a strong interest in user experie
 ![](https://github-readme-stats.vercel.app/api?username=sandeep-guttula&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeep-guttula&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-guttula&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div align="center" >
-  ### ✍️ Random Dev Quote
+
+
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
@@ -30,7 +31,7 @@ I am a passionate front-end web developer with a strong interest in user experie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeep-guttula&icon=6&color=9)](https://visitcount.itsvg.in)
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
