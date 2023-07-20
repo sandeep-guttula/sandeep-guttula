@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sandeep Guttula</h1>
-<h3 align="center">Front End Developer | UI / UX designer | ReactNative Developer</h3>
+<h3 align="center">Front End Developer | UI / UX designer | React Native Developer</h3>
   
 # 💫 About Me:
 I am a passionate front-end web developer with a strong interest in user experience and user interface design. I have over 1 years of experience building responsive and engaging web applications using HTML, CSS, JavaScript, and React. I am also proficient in using design tools such as Sketch and Figma.<br><br>In addition to my work as a front-end web developer, I am also a full-time student at the Aditya Engineering college, Surampalem, where I am pursuing a degree in computer science. I am excited to learn new technologies and contribute to the field of web development.<br><br>I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working collaboratively to solve problems. I am confident that I have the skills and experience to be a valuable asset to your team.
