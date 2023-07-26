@@ -8,6 +8,12 @@
 # 💫 About Me:
 I am a passionate front-end web developer with a strong interest in user experience and user interface design. I have over 1 years of experience building responsive and engaging web applications using HTML, CSS, JavaScript, and React. I am also proficient in using design tools such as Sketch and Figma.<br><br>In addition to my work as a front-end web developer, I am also a full-time student at the Aditya Engineering college, Surampalem, where I am pursuing a degree in computer science. I am excited to learn new technologies and contribute to the field of web development.<br><br>I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working collaboratively to solve problems. I am confident that I have the skills and experience to be a valuable asset to your team.
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sandeepsandy25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sandeep_0701) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-guttula) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sandeep_guttula_07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15545446) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sandeep_0701) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sandeep-guttula) 
