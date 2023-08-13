@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sandeep Guttula</h1>
+<h1 align="center">Hi 👋 I'm Sandeep Guttula</h1>
 <h3 align="center">Front End Developer | UI / UX designer | React Native Developer</h3>
   
 # 💫 About Me:
@@ -27,13 +27,13 @@ I am a passionate front-end web developer with a strong interest in user experie
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandeep-guttula&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!--
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeep-guttula&icon=6&color=9)](https://visitcount.itsvg.in)
 
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
