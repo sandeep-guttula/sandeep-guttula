@@ -51,8 +51,8 @@ I am a passionate front-end web developer with a strong interest in user experie
 # -*- coding: utf-8 -*-
 class SelfTaughtDeveloper:
     def __init__(self):
-        self.name = "Nani Samireddy"
-        self.role = "Flutter and Full stack Web Developer"
+        self.name = "Sandeep Guttula"
+        self.role = "React Native and Full stack Web Developer"
         self.place = "India"
         self.language_spoken = ["tel_IN", "en_US"]
     def say_hi(self):
