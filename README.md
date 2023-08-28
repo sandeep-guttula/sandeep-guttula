@@ -28,17 +28,14 @@ I am a passionate front-end web developer with a strong interest in user experie
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandeep-guttula&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!--
+
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeep-guttula&icon=6&color=9)](https://visitcount.itsvg.in)
 
--->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Hello there 👋
 
