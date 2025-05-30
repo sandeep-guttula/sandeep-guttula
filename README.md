@@ -49,7 +49,7 @@ I am a passionate front-end web developer with a strong interest in user experie
 class SelfTaughtDeveloper:
     def __init__(self):
         self.name = "Sandeep Guttula"
-        self.role = "React Native and Full stack Web Developer"
+        self.role = "Software Engineering"
         self.place = "India"
         self.language_spoken = ["tel_IN", "en_US"]
     def say_hi(self):
