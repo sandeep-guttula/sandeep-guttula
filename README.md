@@ -10,18 +10,11 @@
 <br>
 <br>
 
-<!-- hero: monochrome ASCII portrait (types in) beside neofetch-style info card
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     info card: python scripts/make_info_card.py -->
+<!-- neofetch-style info card: python scripts/make_info_card.py -->
 
 <h3><code>sandeep@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./sandeep-ascii.svg" width="370" alt="Sandeep Guttula — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Sandeep Guttula — neofetch info card" /></td>
-</tr>
-</table>
+<img src="./info-card.svg" width="490" alt="Sandeep Guttula — neofetch info card" />
 
 <br>
 <br>
