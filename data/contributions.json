@@ -1,22 +1,22 @@
 {
   "username": "sandeep-guttula",
-  "generated_at": "2026-10-31T12:44:26Z",
+  "generated_at": "2026-11-01T13:34:51Z",
   "range": {
-    "start": "2025-10-26",
+    "start": "2025-11-02",
+    "end": "2026-11-01"
+  },
+  "total_contributions": 1606,
+  "active_days": 272,
+  "avg_per_active_day": 5.9,
+  "current_streak": {
+    "length": 97,
+    "start": "2026-07-27",
     "end": "2026-10-31"
   },
-  "total_contributions": 1659,
-  "active_days": 277,
-  "avg_per_active_day": 6.0,
-  "current_streak": {
-    "length": 96,
-    "start": "2026-07-27",
-    "end": "2026-10-30"
-  },
   "longest_streak": {
-    "length": 96,
+    "length": 97,
     "start": "2026-07-27",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-07-29",
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 53
-    },
-    {
       "month": "2025-11",
-      "total": 99
+      "total": 98
     },
     {
       "month": "2025-12",
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 198
+      "total": 199
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 7
-    },
-    {
-      "date": "2025-10-28",
-      "count": 19
-    },
-    {
-      "date": "2025-10-29",
-      "count": 8
-    },
-    {
-      "date": "2025-10-30",
-      "count": 15
-    },
-    {
-      "date": "2025-10-31",
-      "count": 4
-    },
-    {
-      "date": "2025-11-01",
-      "count": 1
-    },
     {
       "date": "2025-11-02",
       "count": 2
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
